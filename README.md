@@ -1,2 +1,2 @@
-# bank-ms
-Bank system in java with OOP concepts 
+# ASU Bank
+Bank management system in java with OOP concepts 
